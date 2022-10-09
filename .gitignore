@@ -1,5 +1,9 @@
 *.pdf
 
+# our images, in order to test results
+
+images_our/
+
 # macOS
 
 .DS_Store
