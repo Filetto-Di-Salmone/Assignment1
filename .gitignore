@@ -294,3 +294,4 @@ ui-tests/playwright-report
 
 # VSCode
 .vscode
+.vs
