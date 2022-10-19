@@ -295,3 +295,7 @@ ui-tests/playwright-report
 # VSCode
 .vscode
 .vs
+
+# Project stuff
+
+experiments_dataframes_dumps/
